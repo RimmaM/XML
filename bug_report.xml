@@ -1,0 +1,6 @@
+<environment>Win 11 FF 107</environment>
+<title>Название файла в домашнем задании написано через буквы ll</title>
+<steps>1. открыть домашнее задание GIT Homework 2. Докрутить до строки 26. 3.Найти слово sklls</steps>
+<expected_result> Слово sklls написано через il</expected_result>
+<actual_result> Слово sklls написано через ll</actual_result>
+<link>link</link>
